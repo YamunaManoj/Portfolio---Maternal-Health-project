@@ -1,6 +1,8 @@
 1.Project Goal:
 •	Maternal health remains a cornerstone of public healthcare, yet complications during pregnancy and childbirth continue to present significant risks for both mothers and infants worldwide.
+
 •	In this study, 272 pregnant individuals initially participated, but 61 participants (22%) were lost to follow-up, resulting in a final analysis of 211 individuals.
+
 •	Analyzing and observing to predict the risks during pregnancy.
 
 2. Tools Used:
